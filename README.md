@@ -1,6 +1,6 @@
 # Classification with CatBoost and SHAP
 
-In the Jupyter notebook I run through a Kaggle competition dataset, predicting whether or not Amazon employees should automatically get access to their data requests. I have written this from a consulting point of view and you can the code and explanations in the jupyeter notebook. In order to see all graphs, please use the NBViewer by clicking on the encircled button as shown in the screenshot.
+In the Jupyter notebook I run through a Kaggle competition dataset, predicting whether or not Amazon employees should automatically get access to their data requests. I have written this from a consulting point of view and you can see the code and explanations in the jupyeter notebook. In order to see all graphs, please use the NBViewer by clicking on the encircled button as shown in the screenshot.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AleKosc/Classification-with-CatBoost-and-SHAP/master/Images/NBViewer.PNG">

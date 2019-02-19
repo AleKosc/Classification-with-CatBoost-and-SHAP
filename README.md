@@ -24,7 +24,7 @@ I then find the most important features that explain the predictions and even ma
   <img src="https://raw.githubusercontent.com/AleKosc/Classification-with-CatBoost-and-SHAP/master/Images/SHAP_Overall.png">
 </p>
 
-This addresses the issue of 'black box' algorithms. CatBoost is not a simple algorithm but using SHAP we can tell why a particular employee has or hasn't been granted access, which important when you need explain such a decision.
+This addresses the issue of 'black box' algorithms. CatBoost is not a simple algorithm but by using SHAP we can tell why a particular employee has or hasn't been granted access, which is important when you need to explain such a decision. In this example we can see that it was a borderline decision as the SHAP value is only slightly smaller than 0 and that the main reasons why access has been denied is because of the employee's Manager Id and Role Family Description. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AleKosc/Classification-with-CatBoost-and-SHAP/master/Images/Screenshot_2019-02-19%20Classification_CatBoost_SHAP.png">
